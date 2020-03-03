@@ -6,4 +6,4 @@ sudo pip install -r requirements.txt
 flask db init
 flask db migrate
 flask db upgrade
-sudo nohup python app.py
+sudo nohup python app.py &> /dev/null &
