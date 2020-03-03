@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo yum -y install git
 git clone https://github.com/clecioanderson/smplcrud.git
 virtualenv smplcrud
 source smplcrud/bin/activate
