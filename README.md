@@ -28,7 +28,7 @@ git clone https://github.com/clecioanderson/smplcrud.git
 cd smplcrud
 ```
 
-3. To authenticate in AWS you need to create some environment variable accordingly:
+3. To authenticate in AWS you need to create some environment variables accordingly:
 ```
 export AWS_ACCESS_KEY_ID=your_access_key_here
 export AWS_SECRET_ACCESS_KEY=your_secret_access_key
