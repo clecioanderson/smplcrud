@@ -2,5 +2,6 @@
 __pycache__/
 cruddatabase.db
 crudmanager.py
+.gitignore
 migrations/
 venv/
