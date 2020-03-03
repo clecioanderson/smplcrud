@@ -43,7 +43,7 @@ ansible-playbook -i hosts playbook.yml
 ```
 "public_dns_name": "ec2-54-233-150-145.sa-east-1.compute.amazonaws.com", 
 "public_ip": "54.233.150.145"
-``
+```
 
 6. In this example in order to loggin in by ssh in your instance you will run:
 ```
@@ -56,5 +56,5 @@ http://ec2-54-233-150-145.sa-east-1.compute.amazonaws.com
 
 8. In this first version we don't have error verification, delete or update commands implemented yet. We will get there!
 
-9. Enjoy!!
+> Enjoy!!
 
