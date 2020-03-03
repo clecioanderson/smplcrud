@@ -1,6 +1,6 @@
 .idea/
 __pycache__/
 cruddatabase.db
+crudmanager.py
 migrations/
 venv/
-crudmanager.py
