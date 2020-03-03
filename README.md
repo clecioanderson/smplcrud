@@ -47,7 +47,7 @@ ansible-playbook -i hosts playbook.yml
 "public_ip": "54.233.150.145"
 ```
 
-6. In this example in order to logging in by ssh in your instance you will run:
+6. In this example in order to connect in your EC2 instance by ssh you may run:
 ```
 ssh -i "yourkey.pem" ec2-user@ec2-54-233-150-145.sa-east-1.compute.amazonaws.com
 ```
