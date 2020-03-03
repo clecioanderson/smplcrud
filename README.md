@@ -2,7 +2,7 @@
 
 ## How to use it :+1:
 
-We need to ensure we have installed in our client environment the requirementes below:
+We need to ensure we have installed in our client environment the requirements below:
 ```
 * git
 * pip
@@ -23,7 +23,7 @@ sudo pip install awscli
 git clone https://github.com/clecioanderson/smplcrud.git
 ```
 
-2. Now we change to cloned directory from git:
+2. Now we change to cloned directory:
 ```
 cd smplcrud
 ```
@@ -32,6 +32,10 @@ cd smplcrud
 ```
 export AWS_ACCESS_KEY_ID=your_access_key_here
 export AWS_SECRET_ACCESS_KEY=your_secret_access_key
+
+> The credential configured at this step need at least these two access rights:
+>*AmazonEC2FullAccess*
+>*AmazonVPCFullAccess*
 ```
 
 4. Now you can create your Flask ec2 instances:
