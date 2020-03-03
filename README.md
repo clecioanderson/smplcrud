@@ -41,7 +41,7 @@ export AWS_SECRET_ACCESS_KEY=your_secret_access_key
 ansible-playbook -i hosts playbook.yml
 ```
 
-5. Pay attention on your terminal screen, after finish, you will see on screen the public dns of your Ec2 Flas instance:
+5. Pay attention on your terminal screen, after finish, you will see on screen the public dns of your EC2 Flask instance:
 ```
 "public_dns_name": "ec2-54-233-150-145.sa-east-1.compute.amazonaws.com", 
 "public_ip": "54.233.150.145"
