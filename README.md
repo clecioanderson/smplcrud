@@ -23,7 +23,7 @@ sudo pip install awscli
 git clone https://github.com/clecioanderson/smplcrud.git
 ```
 
-2. Now we change to cloned directory:
+2. Next we change to cloned directory:
 ```
 cd smplcrud
 ```
