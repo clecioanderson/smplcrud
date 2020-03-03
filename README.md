@@ -34,9 +34,7 @@ export AWS_ACCESS_KEY_ID=your_access_key_here
 export AWS_SECRET_ACCESS_KEY=your_secret_access_key
 
 ```
-> The credential configured at this step need at least these two access rights:
->*AmazonEC2FullAccess*
->*AmazonVPCFullAccess*
+> The credential configured at this step need at least these two access rights: AmazonEC2FullAccess, AmazonVPCFullAccess*
 
 4. Now you can create your Flask ec2 instances:
 ```
