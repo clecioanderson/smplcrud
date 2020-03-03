@@ -56,7 +56,7 @@ ssh -i "yourkey.pem" ec2-user@ec2-54-233-150-145.sa-east-1.compute.amazonaws.com
 
 http://ec2-54-233-150-145.sa-east-1.compute.amazonaws.com
 
-8. In this first version we don't have error verification, delete or update commands implemented yet. We will get there!
+8. In this first version we don't have error verification, delete or update commands implemented yet. Be patient! We will get there!:wink:
 
 > Enjoy!!
 
