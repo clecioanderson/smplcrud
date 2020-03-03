@@ -36,7 +36,7 @@ export AWS_SECRET_ACCESS_KEY=your_secret_access_key
 ```
 > The credential configured at this step need at least these two access rights: AmazonEC2FullAccess, AmazonVPCFullAccess
 
-4. We are closer!! Before we have fun running our playbook, please edit the fields below in playbook.yml file replacing by your own information:
+4. We are closer!! Before we have fun running our playbook, please edit the fields below in playbook.yml file replacing with your own information:
 ```
 ---
 - hosts: localhost
